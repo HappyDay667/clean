@@ -1,5 +1,6 @@
 [{
-	"server": "",
-	"service": "",
-	"desc": ""
+	"hasError": "no",
+	"serverTime": "",
+	"ver": "5",
+	"message": ""
 }]
